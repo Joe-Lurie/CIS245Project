@@ -11,8 +11,8 @@ Flags conflicts when two commitments overlap, and names both of them.
 Shows the week: everything scheduled for the current week, sorted by day and time.
 Saves and loads your schedule to a file so nothing is lost when the program closes.
 Text menu: add / edit / delete / view / save / quit, running until the user quits.
-Example
 
+Example
 Add a class on Monday from 10–11 a.m., then add practice on Monday from 9–11 a.m. The program flags the overlap and lists both events.
 
 Stretch goal
